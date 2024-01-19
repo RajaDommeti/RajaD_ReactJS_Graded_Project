@@ -1,0 +1,49 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2024-01-01",
+      "product": "Example",
+      "price": 50,
+      "payee": "Person A"
+    },
+    {
+      "id": 1,
+      "date": "2024-01-01",
+      "product": "Example",
+      "price": 50,
+      "payee": "Person A"
+    },
+    {
+      "id": "f8df",
+      "date": "2024-01-20",
+      "product": "iphone",
+      "price": "80000",
+      "payee": "Person A"
+    },
+    {
+      "id": "dda9",
+      "date": "2024-01-18",
+      "product": "macbook",
+      "price": "100000",
+      "payee": "Person A"
+    },
+    {
+      "id": "d26b",
+      "date": "2024-01-17",
+      "product": "laptop",
+      "price": "50000",
+      "payee": "person B"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Person A"
+    },
+    {
+      "id": 2,
+      "name": "Person B"
+    }
+  ]
+}
